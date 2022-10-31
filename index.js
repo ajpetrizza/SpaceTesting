@@ -5,5 +5,5 @@ const helloWorld = (value) => {
 helloWorld("world");
 
 const helloDev = () => {
-  return "Made a feature branch!!!";
+  return "Made a Feature branch!!!";
 };
